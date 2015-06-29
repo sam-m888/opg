@@ -20,3 +20,12 @@ Javascript implementation of basic spacing algorithm.
 * spacer.js    --> contains main algorithm for spacing and positioning nodes
 * graphic.js   --> turns a node object into a graphic object (does some d3.js stuff)
   
+Related Links
+=============
+* http://opg.fhtl.byu.edu/
+* 03 February 2015 One Page Genealogy - FHTL part 4  http://genealogytrot.blogspot.com.au/2015/02/one-page-genealogy-fhtl-part-4.html
+* 2004 Version http://uvtagg.org/presentations/OnePageGenealogy.pdf
+* Blog https://famhist.wordpress.com/tag/onepage-genealogy/
+* Blog https://famhist.wordpress.com/2007/06/16/one-page-genealogy/
+* Video https://prezi.com/_e5tkl_dbdj7/improving-onepage-genealogy-what-it-was-what-it-is-what-it-will-be/
+* 
