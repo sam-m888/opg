@@ -28,4 +28,7 @@ Related Links
 * Blog https://famhist.wordpress.com/tag/onepage-genealogy/
 * Blog https://famhist.wordpress.com/2007/06/16/one-page-genealogy/
 * Video https://prezi.com/_e5tkl_dbdj7/improving-onepage-genealogy-what-it-was-what-it-is-what-it-will-be/
-* 
+
+GraphingAlgorithm Pseudo code
+=============================
+* https://github.com/sam-m888/opg/raw/master/opg-old/GraphingAlgorithm.txt
